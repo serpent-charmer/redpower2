@@ -269,7 +269,7 @@ public abstract class RenderWiring extends RenderCovers {
         fzl &= tmpf;
         fzs1 &= tmpf;
         fzs2 &= tmpf;
-        char fxf = '讀';
+        char fxf = 35712;
         int fzf = 217640;
         int fcf = 220032;
         switch (fn) {

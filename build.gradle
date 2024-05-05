@@ -37,9 +37,10 @@ minecraft {
 
 repositories {
     maven { url = "https://maven.tilera.xyz" }
+    maven { url = "http://chickenbones.net/maven/" }
     maven {
-        name 'central'
-        url 'https://maven.thorfusion.com/artifactory/central/'
+		name = "gt"
+		url = "https://gregtech.mechaenetia.com/"
     }
 }
 
